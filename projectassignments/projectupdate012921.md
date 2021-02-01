@@ -1,7 +1,7 @@
 # Week 4 Group Assignment Update 
 
 ## LA Neighborhood Transit Mobility
-[Intial Project Proposal](https://github.com/bfb508/up206a_finalproject/blob/main/groupassignments/projectproposal.md)
+[Intial Project Proposal](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/projectproposal.md)
 
 ## Group Roles:
 As we still explore the dynamics of LA neighborhood transit, we are sharing the task data exploration. Once our datasets are prepared, we will assign specific sets of analysis for each person e.g., Andrew looking at transit mobility across neighborhoods, and Ben looking at driver commute times across neighborhoods.
