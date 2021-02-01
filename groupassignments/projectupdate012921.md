@@ -1,25 +1,28 @@
 # Week 4 Group Assignment Update 
 
-## Project title and link to proposal
+## LA Neighborhood Transit Mobility
+[Intial Project Proposal](https://github.com/bfb508/up206a_finalproject/blob/main/groupassignments/projectproposal.md)
 
-## Roles (only for groups): Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
-Andrew - Prepared dataset on the means of transportation to work for the city of LA, as well as shape file on rapid bus routes in LA. Andrew will supplement any of the gaps in his data. 
-Ben - Prepared datasets on race, language spoken at home, and geographic mobility of residents of city of LA. Ben still needs to clean some of the data that he found, and then it will be ready to merge with Andrew's. 
+## Group Roles:
+As we still explore the dynamics of LA neighborhood transit, we are sharing the task data exploration. Once our datasets are prepared, we will assign specific sets of analysis for each person e.g., Andrew looking at transit mobility across neighborhoods, and Ben looking at driver commute times across neighborhoods.
 
-Once the datasets are prepared, Andrew and Ben will assign specific sets of analysis to do, such as: Andrew looking at transit mobility across neighborhoods, and Ben looking at driver commute times across neighborhoods. 
+**Andrew Williams, Transit Expert/Deep Data Diver (TBD):** Andrew has prepared a dataset on the means of transportation to work for the city of LA, as well as a shape file on rapid bus routes in LA. This week he is adding all of LA Metro's transit shapefiles to our collected data. He will continue to supplement any gaps in his data. 
 
-## Status update: Report on the general mood of the team, and provide details as to what is working, and what is not.
-We are curious to explore, but are worried that our project is too broad in scope. We have been able to more appropriately define our spatial scale, but the time constraint of this being a class project limits the meaningful conclusions we will be able to make. 
+**Ben Bressette, Resident Expert/USDOT Analyst (TBD):** Ben has prepared datasets on race, language spoken at home, and geographic mobility of residents of city of LA. This week Ben is cleaning some of the data that he found. He will continue to supplement any gaps in his data.  
 
-## Data update: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
-The next step is to idenitfy gaps in our existing datasets, supplement them if needed, and then combine them into one dataset for analysis. From there, we need to develop a method to categorize census tracts as part of their larger neighborhoods, to make conclusions about transportation mobility throughout the city.
+## Status update:
+We are still curious in our exploration but are worried that our project is too broad in scope. We have been able to more appropriately define our spatial scale, but the time constraint of this being a class project limits the meaningful conclusions we will be able to make. Additionally, we have chosen to not focus on accessibility in terms of access to amenities. Accessibility could play a role within mobility. However, we are choosing to focus on the mobility of residents in LA neighborhoods given current constraints. Further, if we see other factors within neighborhood mobility, we believe we have room to explore them. 
+
+## Data update:
+We are continuing to search and add to our datasets. By the start of week five, we will have shapefiles of LA Meto's cleaned and consolidated, and have residential information for LA city census tracts. From this point, our next step is to identify gaps in our existing datasets, supplement them if needed, and then combine them into one dataset for analysis. Further, we need to develop a method to categorize census tracts as part of their larger neighborhoods, to make conclusions about transportation mobility throughout the city. We will do this through the [LA Times Neighborhood Map]( http://maps.latimes.com/neighborhoods/). 
 
 ## Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 ### Major
--Data cleaning
--Preparing different datasets to be accurately compared 
+1. Data cleaning
+2. Preparing different datasets to be accurately compared 
 ### Medium
--It will be time intensive to match census tracts with defined nieghborhood boundaries
+1. Time
+2. Matching census tracts with defined neighborhood boundaries
 ### Minor
--Time
--Appropriately applying skills that we're learning that are helpful to our research. 
+1. Appropriately applying skills that we're learning that are helpful to our research
+2. Merging notebooks
