@@ -5,7 +5,9 @@
 
 [Project Update Week 5]()
 
-[Week 5 Notebokk]()
+[Week 5 Notebook]()
+
+[Midterm Presentation](https://docs.google.com/presentation/d/1UfMCVr9RECpDwy89xtHBPI4DBvYBh00q4foOHJ7685Q/edit#slide=id.p)
 
 ## Research Question
 
