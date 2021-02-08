@@ -31,12 +31,19 @@ Purpose: We hope to gain insights in how the intersection of race, income, and g
 
 ## Data Exploration and Analysis: Intial Findings
 
-
-## Charts (at least three)
-
-
-## Map Visualization (one static, one interactive Map; maps must have at least one overlay)
+Parts of the City with the highest transit usage are the same parts of the city with the most transit access. These are areas with lower median income (Central, Eastside, and Southeast LA) and also are less-white. “High bus use” however remains relative.The San Fernando Valley has relatively high transit ridership, especially given its low concentration of transit services. This area is also concentrated with a larger percentage of workers who work from home. Besdies areas already noted with higher transit, LA is a car oriented city. Overall, LA and the car are synonymous. Though there a couple narratives emerging from LA-- one with the intersection of race, lower median incomes, and transit use in Central and East LA, another of pocket neighborhoods using transit, and an overarching car dominated environment. 
 
 
-## Looking Forward
+## Charts 
+* Percent Histograms of transportation means of travel for general transit ridership and vehicular travel
+* Histogram of median incomes
 
+## Map Visualization
+* Transit travel by bus with the Local CBD bus system overlayed, plus contextuality (transporation as means to travel to work)
+* Two maps comparing vehicular travel and transit ridership plus contextuality (transporation as means to travel to work)
+* Racial breakdown of LA
+* Median income of LA census tracts
+
+## What we did
+* Andrew: Organization and groundwork for merging and sharing of data, worked on maps and charts (together), hours of trying to figure out coding syntaxt that will hopefully pay off later
+* Ben: Commentary and analysis on findings, pulled data from our notebook for the presentation, worked on maps and charts (together)
