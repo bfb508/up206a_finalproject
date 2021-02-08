@@ -5,7 +5,7 @@
 
 [Project Update Week 5](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week04/projectupdate012921.md)
 
-[Week 5 Notebook]()
+[Week 5 Notebook](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week05/week05merge_trimmed%20(2).ipynb)- because of notebook size, not all cells were run. Cells not run were put in markdown. 
 
 [Midterm Presentation](https://docs.google.com/presentation/d/1UfMCVr9RECpDwy89xtHBPI4DBvYBh00q4foOHJ7685Q/edit#slide=id.p)
 
