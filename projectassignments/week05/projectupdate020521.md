@@ -12,7 +12,7 @@
 ## Research Question
 How does transit mobility compare across Los Angeles?
 
-Purpose: We hope to gain insights in how the intersection of race, income, and geographic location can radically impact Angelenos' daily lives. Though mobility is one dimension within transportation that's part of a broader fabric of social determinants, it's important for us as as planners to understand how these spatial reverberate across Los Angeles.
+Purpose: We hope to gain insights in how the intersection of race, income, and geographic location can radically impact Angelenos' daily lives. Though mobility is one dimension within transportation that's part of a broader fabric of social determinants, it's important for us as as planners to understand how these spatial factors reverberate across Los Angeles.
 
 ## Data Sources
 [Census Data via Census Reporter](https://censusreporter.org/profiles/16000US0644000-los-angeles-ca/)
@@ -31,7 +31,7 @@ Purpose: We hope to gain insights in how the intersection of race, income, and g
 
 ## Data Exploration and Analysis: Intial Findings
 
-Parts of the City with the highest transit usage are the same parts of the city with the most transit access. These are areas with lower median income (Central, Eastside, and Southeast LA) and also are less-white. “High bus use” however remains relative.The San Fernando Valley has relatively high transit ridership, especially given its low concentration of transit services. This area is also concentrated with a larger percentage of workers who work from home. Besdies areas already noted with higher transit, LA is a car oriented city. Overall, LA and the car are synonymous. Though there a couple narratives emerging from LA-- one with the intersection of race, lower median incomes, and transit use in Central and East LA, another of pocket neighborhoods using transit, and an overarching car dominated environment. 
+Parts of the city with the highest transit usage are the same parts of the city with the most transit access. These are areas with lower median income (Central, Eastside, and Southeast LA) and also are less-white. “High bus use” however remains relative.The San Fernando Valley has relatively high transit ridership, especially given its low concentration of transit services. This area is also concentrated with a larger percentage of workers who work from home. Besdies areas already noted with higher transit, LA is a car oriented city. Overall, LA and the car are synonymous. Though there a couple narratives emerging from LA-- one with the intersection of race, lower median incomes, and transit use in Central and East LA, another of pocket neighborhoods using transit, and an overarching car dominated environment. 
 
 
 ## Charts 
