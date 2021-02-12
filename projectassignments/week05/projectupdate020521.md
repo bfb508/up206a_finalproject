@@ -5,7 +5,9 @@
 
 [Project Update Week 5](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week04/projectupdate012921.md)
 
-[Week 5 Notebook](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week05/week05merge_trimmed%20(2).ipynb)- because of notebook size, not all cells were run. Cells not run were put in markdown. 
+[Week 5 Notebook](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week05/week05merge_trimmed%20(2).ipynb)- because of notebook size, not all cells were run. Cells not run were put in markdown.
+
+[Week 5 Notebook 2](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week05/week05merge_trimmed_2.ipynb)- I got paranoid that the above notebook was too big and would have problems downloading. I restarted and cleared the kernals and uploaded this version so it would be easier to download. Note there is additional commentary on this version. 
 
 [Midterm Presentation](https://docs.google.com/presentation/d/1UfMCVr9RECpDwy89xtHBPI4DBvYBh00q4foOHJ7685Q/edit#slide=id.p)
 
