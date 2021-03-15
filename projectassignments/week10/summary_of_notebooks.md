@@ -16,7 +16,7 @@
 4. [final 02.2: Analysis of access to car, commute time, and jobs by mode of transit to work](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final02.2_exploration.ipynb)
 5. [final 03.1: Bus maps and rail maps overlayed on chosen neighborhoods](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final03.1.ipynb#)
 6. [final 04.1: General maps for show](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final04.1_general_maps.ipynb)
-7. [final 05.1](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final05.1spatial_stats.ipynb#)
+7. [final 05.1](https://jupyter.idre.ucla.edu/user/benbressette@ucla.edu/notebooks/21W-UP206A/AssignmentsW21/final05.1spatial_stats.ipynb#)
 
 **Presentation Link**
 * [ESRI Presentation](https://arcg.is/G1Cmr)
