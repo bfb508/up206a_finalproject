@@ -1,20 +1,22 @@
 # Collected Summary of Notebooks for the Final
 
 **Notebooks in GitHub**
-1. final 01.1: Prep for analysis
-2. final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income
-3. final 02.1: Prep for analysis
-4. final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work
-5. final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods
-6. final 4.1: General maps for show
+1. [final 01.1: Prep for analysis]
+2. [final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income]
+3. [final 02.1: Prep for analysis]()
+4. [final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work]()
+5. [final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods]()
+6. [final 4.1: General maps for show]()
+7. [final 05.1]
 
 **Notebooks in Jupyter**
-1. final 01.1: Prep for analysis
-2. final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income
-3. final 02.1: Prep for analysis
-4. final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work
-5. final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods
-6. final 4.1: General maps for show
+1. [final 01.1: Prep for analysis]()
+2. [final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income]()
+3. [final 02.1: Prep for analysis]()
+4. [final 02.2: Analysis of access to car, commute time, and jobs by mode of transit to work]()
+5. [final 03.1: Bus maps and rail maps overlayed on chosen neighborhoods]()
+6. [final 04.1: General maps for show]()
+7. [final 05.1](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final05.1spatial_stats.ipynb#)
 
 **Presentation Link**
 * [ESRI Presentation](insert link)
