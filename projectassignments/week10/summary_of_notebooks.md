@@ -3,7 +3,7 @@
 *
 **Notebooks in GitHub**
 1. [final 01.1: Prep for analysis](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final01.1%20(1).ipynb)-- consists of prep and groudnwork for future exploration. Fully run notebook. 
-2. [final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income]()--exploration of means to work, race, and income. Fully run notebook. 
+2. [final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final01.2_exploration_trimmed%20(2).ipynb)--exploration of means to work, race, and income. Fully run notebook. 
 3. [final 02.1: Prep for analysis](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final02.1.ipynb)-- prep for future work in 2.2. Fully run notebook. 
 4. [final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work]()-- analysis of car access, commute time, and mode of trasnit to work
 5. [final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods]()--overlay of bus routes and rail stops on chosen neighbrhoods. Outputs cleared. 
