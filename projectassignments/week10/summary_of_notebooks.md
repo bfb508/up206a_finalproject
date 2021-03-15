@@ -5,8 +5,8 @@
 2. [final 01.2 trimmed: Analysis of trasnit mode to work, race and ethnicity, and income](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final01.2_exploration_trimmed%20(2).ipynb)--exploration of means to work, race, and income. Fully run notebook. 
 3. [final 02.1: Prep for analysis](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final02.1.ipynb)-- prep for future work in 2.2. Fully run notebook. 
 4. [final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work]()-- analysis of car access, commute time, and mode of trasnit to work
-5. [final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods]()--overlay of bus routes and rail stops on chosen neighbrhoods. Outputs cleared. 
-6. [final 4.1: General maps for show]()-- no real analysis, just fun map making for the storyboard. Outputs cleared.
+5. [final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final03.1%20(2).ipynb)--overlay of bus routes and rail stops on chosen neighbrhoods. Fully run notebook. 
+6. [final 4.1: General maps for show](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final04.1_general_maps.ipynb)-- no real analysis, just fun map making for the storyboard. Fully run notebook.
 7. [final 05.1: Spatial Stats](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final05.1spatial_stats%20(1).ipynb)-- slighlty updated version of spatail stats notebook from a couple weeks prior. Fully run notebook. 
 
 **Notebooks in Jupyter**
