@@ -7,7 +7,7 @@
 4. [final 2.2: Analysis of access to car, commute time, and jobs by mode of transit to work]()-- analysis of car access, commute time, and mode of trasnit to work
 5. [final 3.1: Bus maps and rail maps overlayed on chosen neighborhoods]()--overlay of bus routes and rail stops on chosen neighbrhoods. Outputs cleared. 
 6. [final 4.1: General maps for show]()-- no real analysis, just fun map making for the storyboard. Outputs cleared.
-7. [final 05.1: Spatial Stats](final05.1spatial_stats (1).ipynb)-- slighlty updated version of spatail stats notebook from a couple weeks prior. Fully run notebook. 
+7. [final 05.1: Spatial Stats](https://github.com/bfb508/up206a_finalproject/blob/main/projectassignments/week10/finalnotebooks/final05.1spatial_stats%20(1).ipynb)-- slighlty updated version of spatail stats notebook from a couple weeks prior. Fully run notebook. 
 
 **Notebooks in Jupyter**
 1. [final 01.1: Prep for analysis](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final01.1.ipynb)
