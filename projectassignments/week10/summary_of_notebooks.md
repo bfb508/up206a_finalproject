@@ -20,4 +20,4 @@
 7. [final 05.1](https://jupyter.idre.ucla.edu/user/awwd.williams@gmail.com/notebooks/21W-UP206A/Z_Assignments%20/final05.1spatial_stats.ipynb#)
 
 **Presentation Link**
-* [ESRI Presentation](insert link)
+* [ESRI Presentation](https://arcg.is/G1Cmr)
